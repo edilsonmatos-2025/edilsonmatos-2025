@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, eu sou o Edilson Matos  
 
-<!--
-**edilsonmatos-2025/edilsonmatos-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em transição para área de Análise e Desenvolvimento de Sistemas
+Experiência prévia em área administrativa/financeira
 
-Here are some ideas to get you started:
+Estudando: JavaScript, Python, SQL, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias aspiradas:
+- HTML | CSS | JavaScript
+- Python (básico/intermediário)
+- Banco de Dados SQL
+- Git e GitHub
+
+Onde me encontrar:
+- LinkedIn: https://www.linkedin.com/in/edilson-matos-a69b50268
+- Email: edilsonmoura.matos@gmail.com

@@ -1,9 +1,10 @@
-Olá, eu sou o Edilson Matos  
+Olá, eu sou o Edilson Matos.
 
-Em transição para área de Análise e Desenvolvimento de Sistemas
-Experiência prévia em área administrativa/financeira
+Em transição para área de Análise e Desenvolvimento de Sistemas.
 
-Estudando: JavaScript, Python, SQL, Git/GitHub
+Experiência prévia em área administrativa/financeira.
+
+Estudando: JavaScript, Python, SQL, Git/GitHub.
 
 Tecnologias aspiradas:
 - HTML | CSS | JavaScript
